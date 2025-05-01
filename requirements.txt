@@ -1,0 +1,18 @@
+numpy==1.22.4
+spacy==3.5.3
+pandas
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+google-cloud-storage
+google-cloud-bigquery
+transformers
+pandas-gbq
+torch  
+spacy
+es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.5.0/es_core_news_sm-3.5.0.tar.gz
+deep-translator  
+langdetect
+requests
+unidecode
